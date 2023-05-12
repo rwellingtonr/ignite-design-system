@@ -1,0 +1,1 @@
+{"version":3,"sources":["../src/index.tsx"],"sourcesContent":["export function App() {\n\treturn <h1>Hello</h1>\n}\n"],"mappings":"AACQ,cAAAA,MAAA,oBADD,SAASC,GAAM,CACrB,OAAOD,EAAC,MAAG,iBAAK,CACjB","names":["jsx","App"]}
