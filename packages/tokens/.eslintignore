@@ -1,0 +1,7 @@
+test
+public
+node_modules
+dist
+build
+.next
+*.js
